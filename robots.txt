@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eckeragno.github.io/sitemap.html.gz
+Sitemap: https://eckeragno.github.io/app/sitemap.html.gz
+Sitemap: https://eckeragno.github.io/assets/sitemap.html.gz
+Sitemap: https://eckeragno.github.io/css/sitemap.html.gz
+Sitemap: https://eckeragno.github.io/includes/sitemap.html.gz
+Sitemap: https://eckeragno.github.io/item/sitemap.html.gz
+Sitemap: https://eckeragno.github.io/src/sitemap.html.gz
